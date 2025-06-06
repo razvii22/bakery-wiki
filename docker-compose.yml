@@ -1,0 +1,19 @@
+version: '3.7'
+services:
+  github-wiki-theme:
+    build:
+      context: .
+      dockerfile: .env-files/Dockerfile
+    ports:
+      - 4000:4000
+      - 35729:35729
+    environment:
+      - BUNDLE_GEMFILE=Gemfile
+    volumes:
+      - .:/srv/jekyll
+      - github_site:/srv/jekyll/_site
+    # For some god unknown reason, the initial build doesn't bundle in the remote git dependency, adding this bundle command fixes that.
+    command: bash -c "bundle && bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload"
+volumes:
+  github_site:
+  gitlab_site:
