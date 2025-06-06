@@ -1,12 +1,12 @@
 # (string) remote theme(optional)
 remote_theme: razvii22/bakery-wiki-theme@master
 # (string) Title of your wiki
-title: "bakery-wiki-skeleton"
+title: "The Bakery wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
 baseurl: "/wiki"
 # (string) Description of your wiki
-description: 'The skeleton repo of bakery-wiki-theme'
+description: 'The "Official" repository for the baking boys wiki!'
 # (mapping) Left side navigation buttons, leave empty to remove them
 navButtons:
   Home: "/"
@@ -14,7 +14,7 @@ navButtons:
 # Change this to your repository URL
 # (string) repo url: user/repo
 github:
-  repository_url: "razvii22/bakery-wiki-skeleton"
+  repository_url: "razvii22/Bakery-Wiki"
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "main"
 # (boolean) disable edit functionalities (edit/delete/add pages)
