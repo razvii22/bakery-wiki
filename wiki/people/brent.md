@@ -26,6 +26,9 @@ This is all we know. Rest assured, efforts are underway to extract additional de
 
 # Miscellaneous
 He plays games with [Raz[(/wiki/people/razvii.md).
+
 Stand in for when [Raz](/wiki/people/razvii.md) won't code stuff.
+
 Stand in for when [Jeremy](/wiki/people/jeremy.md) won't write music.
+
 Catfished [Jeremy](/wiki/people/jeremy.md) into sharing a bed. [Jeremy](/wiki/people/jeremy.md) has since alleged that Brent lied about being a snowman.
