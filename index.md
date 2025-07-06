@@ -33,7 +33,7 @@ The bakery consists of the following baking bois:
   Ironically he does none of the coding in this group.
 
 ---
-#### See [Index:people](/wiki/people/) for more context.
+#### See [Index:people](wiki/people/) for more context.
 
 
 {% comment %}This wiki is built on top of [Jekyll](https://jekyllrb.com/) and [Github pages](https://pages.github.com/).
