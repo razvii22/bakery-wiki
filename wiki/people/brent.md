@@ -15,7 +15,7 @@ embed: card
 > You can help by [expanding it](https://github.com/razvii22/Bakery-Wiki/edit/main/wiki/people/jeremy.md)
 {: gradient=""}
 
-**Belgian, Programmer, Cool dude**
+# Belgian, Programmer, Cool dude
 Among the many major breakthroughs in human civilisation, refrigeration stands as one of the most signifficant. A technology that changed the very nature of our diet, our nutrition, and our survival. It is thanks to refrigeration that seafood can be enjoyed inland, that a man can live in Florida, and that Brent can survive the summer. Where would we be without refrigeration.
 It is impossible to contain the history of refrigeration in just one article.
 It is also impossible to find enough history about Brent to fill even one article.
