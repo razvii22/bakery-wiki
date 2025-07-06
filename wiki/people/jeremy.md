@@ -61,7 +61,9 @@ This section has been moved to [cheese](../cheese.md) for the sake of everyone i
 # Miscellaneous
 Scruby also enjoys being stalked by strange American bible men on the internet.
 
-Scruby enjoys avoiding taxation from Her Majesties Revenue and Customs of Her Majesties Government of Her Majesties United Kingdom of England, Wales, Scotland, and Northern Isles.
+~~Scruby enjoys avoiding taxation from Her Majesties Revenue and Customs of Her Majesties Government of Her Majesties United Kingdom of England, Wales, Scotland, and Northern Isles.~~
+Oops nevermind lol.
+
 Hahhahahaha. Nope. Don't need that here. Scruby doesn't do this. All his VAT rebates are legal, sound transaction. Hahaha LOL
 
 >What about all those coffee machines? -Raz  
