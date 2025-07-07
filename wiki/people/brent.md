@@ -25,10 +25,10 @@ As far as people go, Brent is very similar to the country in which he reisdes. T
 This is all we know. Rest assured, efforts are underway to extract additional details.
 
 # Miscellaneous
-He plays games with [Raz[(/razvii.md).
+He plays games with [Raz](/razvii.md).
 
-Stand in for when [Raz](/wiki/people/razvii.md) won't code stuff.
+Stand in for when [Raz](/razvii.md) won't code stuff.
 
 Stand in for when [Jeremy](/jeremy.md) won't write music.
 
-Catfished [Jeremy](/jeremy.md) into sharing a bed. [Jeremy](/wiki/people/jeremy.md) has since alleged that Brent lied about being a snowman.
+Catfished [Jeremy](/jeremy.md) into sharing a bed. [Jeremy](/jeremy.md) has since alleged that Brent lied about being a snowman.
