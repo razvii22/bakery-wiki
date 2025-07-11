@@ -36,19 +36,18 @@ Some of these "hobbies" include:
 Jeremy, possibly due to some external influences, seems to have taken a particular interest in mixing, mastering and general sound engineering, as well as media production in general, which has led to him following an education in the field.
 This hobby and job of his proves to be invaluably exploitable.
 
-### Triumph Stags
-
-For some unexplainable reason, Jeremy seems to be rather infatuated with vehicles, noteworthy of which is the Triumph stag. Due to this being a particularly uninteresting subject to anyone but him, little information has been gathered about this.
+### Trains
+Jeremy has an unhealthy obsession with trains and train related technology.
+Despite a concerning amount of his digital locomotives resembling **[REDACTED]**, and the utter inability for anyone but him to operate them, they are technically functional and within spec.
+This has never ceased to irritate [razvii](/razvii.md)
 
 ### Cheese
 
 Jeremy seems to be concerning enamored with cheese, talking about it constantly and even going as far as to acrue a large collection of [cheese facts](#cheese-facts).
 This seeming obsession of his is both concerning and being monitored closely.
 
-<!-- ## Gardening
-
----
-... -->
+<!-- ### Gardening
+I thought we all agreed not to talk about what happened. -->
 
 # Diabetes
 
@@ -66,8 +65,8 @@ Oops nevermind lol.
 
 Hahhahahaha. Nope. Don't need that here. Scruby doesn't do this. All his VAT rebates are legal, sound transaction. Hahaha LOL
 
->What about all those coffee machines? -Raz  
+>What about all those coffee machines? **-Raz**  
 
->Shutup, or the Sheffield Coffee Mafia will come for me. - Scruby  
+>Shutup, or the Sheffield Coffee Mafia will come for me. **-Scruby**  
 
->You mean our sales department? -Raz  
+>You mean our sales department? **-Raz**
