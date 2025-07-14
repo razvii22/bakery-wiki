@@ -27,7 +27,7 @@ This is all we know. Rest assured, efforts are underway to extract additional de
 # Miscellaneous
 He plays games with [Raz](/razvii.md).
 
-Stand in for when [Raz](/razvii.md) won't code stuff.
+Stand in for when [Raz](/razvii.md) won't code stuff. <abbr title="Raz"><sup>(Wait he does that? when?)</sup></abbr>
 
 Stand in for when [Jeremy](/jeremy.md) won't write music.
 
