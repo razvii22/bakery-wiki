@@ -9,9 +9,7 @@ embed: card
 > Jeremy is my favourite.<sup><abbr title="No-one is believing that, Jeremy.">Proper citation needed</abbr></sup>
 {: blame="Wix, Giraffe, Everyone in chat"}
 
-> **This page is still work in progress**.  
-> You can help by [expanding it](https://github.com/razvii22/Bakery-Wiki/edit/main/wiki/people/jeremy.md)
-{: gradient=""}
+{%- include incompletePage.md -%}
 **Diabetic, Rapper, Sound Engineer, Moron, Angry, British**
 
 Jeremy is a colossal knob-head previously in charge of the incoherent mess he has created.
