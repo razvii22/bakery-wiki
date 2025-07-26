@@ -6,7 +6,7 @@ title: Razvii
 embed: card
 ---
 
-{%- include bakery-wiki/components/charCard.html title="Brent" imageURL="../../assets/images/pfps/smugFuck.jpg" table='Nicknames:,Raz|Occupation:,<em>3D designer</em>|<a href="#Hobbies">Hobbies</a>:,Piano<br>Coding<br>Idk... breathing?' -%}
+{%- include bakery-wiki/components/charCard.html title="Brent" imageURL="../../assets/images/pfps/smugFuck.jpg" table='Nicknames:,Raz|Occupation:,<em>3D designer</em>|<a href="#Hobbies">Hobbies</a>:,Managing Twitch<br>Complaining' -%}
 
 
 {%- include incompletePage.md -%}
