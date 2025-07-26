@@ -16,12 +16,6 @@ embed: card
 
 Origins of the Raz are unknown so far. What is known is that this creature is not of anthropomorphic origin. He might look human, but looks often deceive. His looks could perchance draw you in closer with the promise of a good time. But once close enough, you will get devoured mentally, leaving nothing but a hollow husk behind.
 
-# Revenue Collection
-
-To finance any of his plans or finance his basic survival, Raz needed to get a job. Assuming he was any good at working with computers, he subsequently started a career in using FreeCAD, completing any requests for specific 3D models for a very competitive price (that's what I'm told at least). Slowly building a customer base is essential to this end.
-
-Raz might have looked at other more profitable routes.
-
 # Hobbies
 
 Raz's free time is spent managing the Twitch channel, from which all adventures are streamed, together with <a href="../jeremy.md">Jeremy</a> and <a href="../brent.md">Brent</a>. He spends huge efforts to make the tiniest changes to create a beautiful, total aesthetic that is pleasing to watch. The background, the character presentations, the total layout... Like a true engineer he works his way to a wonderful end result.
