@@ -38,7 +38,7 @@ This hobby and job of his proves to be invaluably exploitable.
 Jeremy has an unhealthy obsession with trains and train related technology.
 Despite a concerning amount of his digital locomotives resembling **[REDACTED]**, and the utter inability for anyone but him to operate them, they are technically functional and within spec.
 This has never ceased to irritate [razvii](/razvii.md).
-This may be related to the fact that he wrote the [spec](/wiki/specs/UGPT.md)
+This may be related to the fact that he wrote the [spec](/wiki/specs/UGPT.md).
 
 ### Cheese
 
@@ -59,7 +59,7 @@ This section has been moved to [cheese](../cheese.md) for the sake of everyone i
 # Miscellaneous
 Scruby also enjoys being stalked by strange American bible men on the internet.
 
-<sup>Scruby enjoys avoiding taxation from <abbr title="Oops, that... uh... doesn't need to be here anymore haha...">~~Her Majesties Revenue and Customs of Her Majesties Government of Her Majesties United Kingdom of England, Wales, Scotland, and Northern Isles.~~</abbr></sup>
+<sup>Scruby enjoys avoiding taxation from <abbr title="Oops, that... uh... doesn't need to be here anymore haha...">~~His Majesties Revenue and Customs of Her Majesties Government of Her Majesties United Kingdom of England, Wales, Scotland, and Northern Isles.~~</abbr></sup>
 
 >What about all those coffee machines? **-Raz**  
 
