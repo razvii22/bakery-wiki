@@ -18,8 +18,11 @@ Origins of the Raz are unknown so far. What is known is that this creature is no
 
 # Hobbies
 
-Raz's free time is spent managing the Twitch channel, from which all adventures are streamed, together with <a href="../jeremy.md">Jeremy</a> and <a href="../brent.md">Brent</a>. He spends huge efforts to make the tiniest changes to create a beautiful, total aesthetic that is pleasing to watch. The background, the character presentations, the total layout... Like a true engineer he works his way to a wonderful end result.
+Raz's free time is spent managing the Twitch channel, from which all adventures are streamed, together with [Jeremy](jeremy.md) and [Brent](brent.md). He spends huge efforts to make the tiniest changes to create a beautiful, total aesthetic that is pleasing to watch. The background, the character presentations, the total layout... Like a true engineer he works his way to a wonderful end result.
 
 # Likes
 
 A quaint little shop prepares hotdogs that Raz happens to adore. They perfectly melt in combination with Raz's non-human saliva.
+
+Aside from that, like any non-anthropomorphic entity, Raz likes to devour souls, open portals, sip tea and revive the dead. As long as people suffer, Raz will always be happy :\).
+
