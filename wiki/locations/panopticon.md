@@ -1,9 +1,12 @@
 ---
-image: /assets/images/pfps/jeremy.png
 title: Panopticon
-embed: card
+excerpt: "The concept is to allow all prisoners of an institution to be observed by a single prison officer, without the inmates knowing whether or not they are being watched."
 ---
 {%- include incompletePage.md -%}
+
+> "The concept is to allow all prisoners of an institution to be observed by a single prison officer, without the inmates knowing whether or not they are being watched."
+{: blame="Wikipedia" gradient=""}
+<sup><sub><a href="https://en.wikipedia.org/wiki/Panopticon">Citation</a></sub></sup>
 
 The Panopticon is an all-seeing omnipresent eyesore that hangs in the sky like a colossal blot of ink seeping through clouds as though they were fine stock paper.
 Constructed by Raz, the Panopticon was initially designed to act as a command station for his turtles and automotons; its potential, however, was never realised - owing to an
@@ -34,5 +37,11 @@ Remember kids, 99.9% of gamblers quit just before they hit it big.
 {: gradient="" blame="Razvii"}
 > **Note:**  
 > The events described in this section of the article are debated, and the exact wording is highly unlikely.
+
+# Capabilities
+The Panopticon, even in its incomplete and in-construction state, is still capable of fulfilling certain functions:
+- GPS - The station acts as a massive, extremely powerful multi point GPS beacon for several other systems.
+- Observation - The observation decks allow a person on the platform to safely observe any movement or change down on the ground level with little to no way of being seen back
+- Lifts - The station is equipped with 2 remote controllable lifts, one acting as a personnel lift pod, and the other as a cargo elevator.
 
 # Decomissioning
