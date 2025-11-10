@@ -23,7 +23,7 @@ A list of pages that are either not done, or still need additional work.
 - [ ] Structures
     - [x] ? Panopticon
     - [ ] Taskmaster
-    - [ ] Warehouse
+    - [x] ? Warehouse
     - [ ] Smeltery
     - [ ] Great Southwestern Railway
     - [ ] New Workshop + old workshop
