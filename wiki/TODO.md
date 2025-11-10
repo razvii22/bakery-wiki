@@ -21,7 +21,7 @@ A list of pages that are either not done, or still need additional work.
 
 ---
 - [ ] Structures
-    - [ ] Panopticon
+    - [x] ? Panopticon
     - [ ] Taskmaster
     - [ ] Warehouse
     - [ ] Smeltery
