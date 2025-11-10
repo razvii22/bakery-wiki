@@ -47,7 +47,7 @@ Curator has been personally programmed by Razvii and features a command line int
 
 Curator is attached to an overhead Gantry system that is activated from a control panel at the door, or with a remote control tablet; while the entire programming and software architecture, including UI and everything was programmed by **Razvii**, **Jeremy** has devised a clever gantry system that moved the robot around to each vault.  
 
-{%- comment -%} For more information, see (insert link to curator page.) {%- comment -%}
+{%- comment -%} For more information, see (insert link to curator page.) {%- endcomment -%}
 
 If you would like to contribute or look at the code, you can head over to [the source code](https://github.com/razvii22/cc-curator) on Github!  
 ![The curator Gantry system.](../../assets/images/locations/warehouse/warehouseGantry.png){: width="400" title="The Gantry rail system! Open in new tab to zoom in!"}
