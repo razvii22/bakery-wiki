@@ -1,6 +1,8 @@
 ---
 title: Warehouse
+image: /assets/images/locations/warehouse/warehouseExterior1.png
 excerpt: "Curator's house! ... and items, I guess"
+embed: card
 ---
 {%- include incompletePage.md -%}
 
