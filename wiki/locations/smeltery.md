@@ -6,8 +6,10 @@ embed: card
 ---
 {%- include incompletePage.md -%}
 
-> "I'm not sure that we have any smeltery quotes."
-{: blame="I made it up."}
+> "Raz the smeltery's not working."
+{: blame="Jeremy"}
+> "It's in full auto, Jeremy."
+{: blame="Razvii"}
 
 Built by [Razvii](../people/razvii.md) to facilitate the mass-production of baked goods, the smeltery is one of the oldest, and most reliable, peices of infrastructure on the [Minecraft](../games/minecraft.md) server.
 
