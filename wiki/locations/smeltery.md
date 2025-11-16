@@ -1,5 +1,5 @@
 ---
-title: Warehouse
+title: Smeltery
 image: /assets/images/locations/smeltery/smelteryExterior1.png
 excerpt: "It's big, it's heavy, it's the only thing that consistently works."
 embed: card
