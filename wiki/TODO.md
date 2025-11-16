@@ -45,6 +45,8 @@ A list of images that need to be taken and uploaded for certain pages.
 - [ ] Taskmaster Close
 - [ ] Smeltery Cover
 - [ ] Smeltery Close
+- [ ] Smeltery Station
+- [ ] Smeltery Siding
 - [ ] Railway Station / Yard Cover
 - [ ] Railway Station Close
 - [ ] New Workshop Cover
