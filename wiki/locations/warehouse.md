@@ -20,7 +20,7 @@ The warehouse is not just a big bulk storage location, it hosts several advanced
 
 ## **Bulk storage and sorting**
 
-The warehouse hosts 8 massive vaults, in banks of 4 on either side, with additional temporary storage underground.
+The warehouse hosts 10 massive vaults, in banks of 5 on either side, with additional temporary storage underground.
 
 The vaults host the following category of items, in order of the sorting system:
 - Bulk food
@@ -28,10 +28,15 @@ The vaults host the following category of items, in order of the sorting system:
 - Fish
 - Bricks
 - Mechanical Components
+- Food
 - Glass
 - Stone
 - Minerals
 - Miscellaneous  
+
+> **Note for confused goats:**  
+> "Bulk food" refers to compacted food products such as hay bales and crates of produce, while "Food" refers to actual, instantly consumable food such as apples and moss
+{: blame="Annoyed cat"}
 
 These items are sorted by running a conveyor belt above each vault in the order described, as such, if one item fits multiple categories, it will be delivered in the first match.
 
@@ -45,9 +50,15 @@ The warehouse is, with some difficulty, able to interact with, and distribute it
 ## **Curator and its gantry**
 
 Curator, also known as **CC-Curator** is an advanced wireless noisy turtle from the mod [CC:Tweaked](https://tweaked.cc/) that acts as the current primary way of interacting with each vault.  
-Curator has been personally programmed by Razvii and features a command line interface, it was originally called **Archivist**, which was supposed to be the central system that interacts with every vault at once, however that proved to be rather difficult, and so, **Curator** has been devised, which interacts with one vault at a time.
+Curator has been personally programmed by [Razvii](../people/razvii.md) and features a command line interface, it was originally called **Archivist**, which was supposed to be the central system that interacts with every vault at once, however that proved to be rather difficult, and so, **Curator** has been devised, which interacts with one vault at a time.
 
-Curator is attached to an overhead Gantry system that is activated from a control panel at the door, or with a remote control tablet; while the entire programming and software architecture, including UI and everything was programmed by **Razvii**, **Jeremy** has devised a clever gantry system that moved the robot around to each vault.  
+This technically makes Curator a fork of Archivist.
+
+Curator is attached to an overhead Gantry system that is activated from a control panel at the door, or with a remote control tablet that either sits on a pedestal next to the control panel, or unhelpfully in the pocket of the last ditzy user of the system.
+
+Curator's UI terminal, color system, general software utilities and remote were programmed by [Razvii](../people/razvii.md), however, the incredibly simplified and efficient gantry rail has been devised by [Jeremy](../people/jeremy.md), without which the entire thing wouldn't be possible.  
+
+His technology has been gratefully appropriated into other projects since.  
 
 {%- comment -%} For more information, see (insert link to curator page.) {%- endcomment -%}
 
