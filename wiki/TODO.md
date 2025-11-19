@@ -13,28 +13,28 @@ The name in parenthesis is the respective author or current editor for that page
 ## Pages
 A list of pages that are either not done, or still need additional work.
 
-- [x] Home page
-- [x] People pages:
-    - [x] Razvii page
-    - [x] Scruby page
-    - [x] Brent page
+- [x] [Home](../index.md) page
+- [x] [People](people/) pages:
+    - [x] [Razvii](people/razvii.md) page
+    - [x] [Scruby](people/jeremy.md) page
+    - [x] [Brent](people/brent.md) page
 
 ---
-- [ ] Structures
-    - [x] ? Panopticon
-    - [ ] Taskmaster
-    - [x] ? Warehouse
-    - [ ] Smeltery
-    - [ ] Great Southwestern Railway
-    - [ ] New Workshop + old workshop
-    - [ ] Big Chicken
-    - [ ] SK Sushi
+- [ ] [Locations](locations/)
+    - [x] ? [Panopticon](locations/panopticon.md) (Jeremy)
+    - [ ] [Taskmaster](locations/taskmaster.md) (Jeremy)
+    - [x] ? [Warehouse](locations/warehouse.md) (Razvii)
+    - [ ] [Smeltery](locations/smeltery.md) (Jeremy)
+    - [ ] [Great Southwestern Railway](locations/southernRailway.md)
+    - [ ] [New Workshop + old workshop](locations/southWorkshop.md)
+    - [ ] [Big Chicken](locations/bigChicken.md)
+    - [ ] [SK Sushi](locations/sleepyKitten.md)
 
 ---
 - [ ] Games page
-    - [ ] Minecraft
-    - [ ] Mindustry
-    - [x] ? Chess (plus variants) (Razvii)
+    - [ ] [Minecraft](games/minecraft.md)
+    - [ ] [Mindustry](games/mindustry.md)
+    - [x] ? [Chess](games/chess.md) (plus variants) (Razvii)
 
 ## Images
 A list of images that need to be taken and uploaded for certain pages.
