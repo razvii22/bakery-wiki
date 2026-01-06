@@ -1,6 +1,6 @@
 ---
 title: Workshop
-image: /assets/images/locations/workshop/workshopExterior.png
+image: /assets/images/locations/workshop/workshopExterior1.png
 excerpt: "Lots of tools, lots of waiting."
 embed: card
 ---
