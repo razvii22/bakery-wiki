@@ -39,7 +39,7 @@ A list of pages that are either not done, or still need additional work.
 ## Images
 A list of images that need to be taken and uploaded for certain pages.
 
-NOTE - The "position" images should be an aspect ratio of 16:9, scaled up to a bigger resolution such as 1280x720.
+NOTE - The "position" images should be an aspect ratio of 16:9, such as 256x144, scaled up to a bigger resolution such as 1280x720.
 
 - [ ] Panopticon Cover
 - [ ] Panopticon Close
