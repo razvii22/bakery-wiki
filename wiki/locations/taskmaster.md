@@ -1,6 +1,6 @@
 ---
 title: Taskmaster
-image: /assets/images/locations/taskMaster/taskMasterExterior1.png
+image: /assets/images/locations/taskMaster/taskMasterExterior1.jpeg
 excerpt: "TAAAAAAAAAHHSK-masta."
 embed: card
 ---
@@ -9,7 +9,7 @@ embed: card
 > "In this world, nothing can be certain but death and tasks."
 {: blame="Benjamin Tasklin"}
 
-[Taskmaster](../../assets/images/locations/taskMaster/taskMasterExterior1.jpeg)
+![Taskmaster](../../assets/images/locations/taskMaster/taskMasterExterior1.jpeg)
 
 Taskmaster is a mighty stone monument sculpted in the likeness of a turtle and often thought to be divine. Its purpose is to guide the workforce, delegating labour between [Rav](../people/razvii.md), [Brent](../people/brent.md), and [Jeremy](../people/jeremy.md) at the begining of each stream. As streams ended, tasks would need to be reported either complete or incomplete, at which point Taskmaster would deem labourers either disappointing or not disappointing. Scores awarded based on a labourer's performance were used to track the quality of their contributions to the server.
 
