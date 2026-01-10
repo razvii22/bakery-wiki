@@ -16,7 +16,7 @@ Built by [Razvii](../people/razvii.md) to facilitate the mass-production of bake
 
 # Location
 
-![The location of the smetery on the Compound](../../assets/images/locations/smeltery/smelteryLocation.png){: width="900" title="The location of the smeltery on the map. Open in new tab to zoom in!"}
+![The location of the smetery on the Compound](../../assets/images/locations/smeltery/smelteryLocation.jpeg){: width="900" title="The location of the smeltery on the map. Open in new tab to zoom in!"}
 
 # Operation
 

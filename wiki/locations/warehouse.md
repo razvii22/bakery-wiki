@@ -13,7 +13,7 @@ The warehouse is the primary item depot for both players and vehicles, construct
 
 # Location
 
-![The location of the warehouse on the Compound](../../assets/images/locations/warehouse/warehouseLocation.png){: width="900" title="The location of the warehouse on the map. Open in new tab to zoom in!"}
+![The location of the warehouse on the Compound](../../assets/images/locations/warehouse/warehouseLocation.jpeg){: width="900" title="The location of the warehouse on the map. Open in new tab to zoom in!"}
 
 # Functions
 The warehouse is not just a big bulk storage location, it hosts several advanced machines and systems with the intended purpose of making item distribution and storage easier.
