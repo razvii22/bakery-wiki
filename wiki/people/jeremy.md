@@ -59,7 +59,7 @@ This section has been moved to [cheese](../cheese.md) for the sake of everyone i
 # Miscellaneous
 Scruby also enjoys being stalked by strange American bible men on the internet.
 
-<sup>Scruby enjoys avoiding taxation from <abbr title="Oops, that... uh... doesn't need to be here anymore haha...">~~His Majesties Revenue and Customs of Her Majesties Government of Her Majesties United Kingdom of England, Wales, Scotland, and Northern Isles.~~</abbr></sup>
+<sup>Scruby enjoys avoiding taxation from <abbr title="Oops, that... uh... doesn't need to be here anymore haha...">~~His Majesties Revenue and Customs of Her Majesties Government of His Majesties United Kingdom of England, Wales, Scotland, and Northern Isles.~~</abbr></sup>
 
 >What about all those coffee machines? **-Raz**  
 
