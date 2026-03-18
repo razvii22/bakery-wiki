@@ -17,7 +17,7 @@ Upon his stepping down from power and forcing the responsibility onto [razvii](/
 He can now be seen constructing incoherent modern brutalist messes, calling speakers "monitors" and helping out with the video broadcasts.
 
 # Bakery Wiki Theme
-It is important to note that Jeremy has a surprisingly high tolerance for bullshit, incomprehensible nonsense and counterintuitive design.
+It is important to note that Jeremy has a surprisingly high tolerance for bullshit, [incomprehensible nonsense](https://fudrehcs-document-archive.neocities.org/){:.dark} and counterintuitive design.
 This has led him down the dark part of pursuing CSS and general web design.
 This has proved particularly invaluable after [razvii](/razvii.md) has entirely and irrecoverably lost their mind trying to comprehend the subject.
 Therefore, Jeremy is entirely responsible for the visual design and UI of the [bakery-wiki-theme](https://github.com/razvii22/bakery-wiki-theme) project and he is to be reluctantly thanked for this project seeing the light of day.
@@ -36,7 +36,7 @@ This hobby and job of his proves to be invaluably exploitable.
 
 ### Trains
 Jeremy has an unhealthy obsession with trains and train related technology.
-Despite a concerning amount of his digital locomotives resembling **[REDACTED]**, and the utter inability for anyone but him to operate them, they are technically functional and within spec.
+Despite a concerning amount of his digital locomotives resembling **[REDACTED]**, and the utter inability for anyone but him to operate them, they are [technically functional](https://fudrehcs-document-archive.neocities.org/ammended){:.dark} and within spec.
 This has never ceased to irritate [razvii](/razvii.md).
 This may be related to the fact that he wrote the [spec](/wiki/specs/UGPT.md).
 
