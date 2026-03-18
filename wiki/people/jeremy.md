@@ -18,8 +18,8 @@ He can now be seen constructing incoherent modern brutalist messes, calling spea
 
 # Bakery Wiki Theme
 It is important to note that Jeremy has a surprisingly high tolerance for bullshit, [incomprehensible nonsense](https://fudrehcs-document-archive.neocities.org/){:.dark} and counterintuitive design.
-This has led him down the dark part of pursuing CSS and general web design.
-This has proved particularly invaluable after [razvii](/razvii.md) has entirely and irrecoverably lost their mind trying to comprehend the subject.
+This has led him down the dark path of pursuing CSS and general web design.
+This has proven particularly invaluable after [razvii](/razvii.md) has entirely and irrecoverably lost their mind trying to comprehend the subject.
 Therefore, Jeremy is entirely responsible for the visual design and UI of the [bakery-wiki-theme](https://github.com/razvii22/bakery-wiki-theme) project and he is to be reluctantly thanked for this project seeing the light of day.
 
 # "Hobbies"
