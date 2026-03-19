@@ -18,7 +18,8 @@ Once upon a time there was a [Razvii](../people/razvii.md). This **Razvii** like
 So overcome by gambling was he, that every opportunity would be taken to place a bet.  
 Every chance, every game, every decision - and a wager would be placed.  
 One day, he thought, his habit would pay dividends.  
-During these times, the **Razvii** had built many a great wonder; chief among them being a mighty station, grasping the heavens at the border of the sky. From his station, he could see all - and see all he did. He looked out to the mountains. He looked north to the sea. East to the foundry, and down to the forests thick with trees. But what he saw in those forests filled him with a terrible envy.  
+During these times, the **Razvii** [had built many a great wonder.](https://prismtransmission.neocities.org/){:.dark}
+Chief among them being a mighty station, grasping the heavens at the border of the sky. From his station, he could see all - and see all he did. He looked out to the mountains. He looked north to the sea. East to the foundry, and down to the forests thick with trees. But what he saw in those forests filled him with a terrible envy.  
 Every day, between the trunks and the leaves, a small train would pass. Crawling through the undergrowth and scaling the hills, it was in the **Razvii**'s view and he wanted it. So he hatched a scheme.  
 "[Jeremy](../people/jeremy.md)" he said "with your train so magnificent. Would you care for a game?"  
 For a moment, **Jeremy** thought. He knew the **Razvii** liked to gamble, and he knew where this would lead.  
