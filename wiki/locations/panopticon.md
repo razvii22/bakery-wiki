@@ -4,7 +4,7 @@ excerpt: "The concept is to allow all prisoners of an institution to be observed
 ---
 {%- include incompletePage.md -%}
 
-> "The concept is to allow all prisoners of an institution to be [observed](https://weather-station.neocities.org/scopes/){:.darl} by a single prison officer, without the inmates knowing whether or not they are being watched."
+> "The concept is to allow all prisoners of an institution to be [observed](https://weather-station.neocities.org/scopes/){:.dark} by a single prison officer, without the inmates knowing whether or not they are being watched."
 {: blame="Wikipedia" gradient=""}
 <sup><sub><a href="https://en.wikipedia.org/wiki/Panopticon">Citation</a></sub></sup>
 
