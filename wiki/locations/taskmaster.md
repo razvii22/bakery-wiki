@@ -24,4 +24,4 @@ As of right now, Taskmaster is not in use. Discussions are underway to figure ou
 >"The difference between task avoidance and task evasion is the thickness of a prison wall."
 {: blame="Denis Taskley"}
 
-Though on paper, using a spreadhseet algorithm to categorise and distribute tasks is a perfect system, in practice there were complications. Since categorisation was based on a complexity scoring system, tasks could be purposely designed such that they acheive the maximum complexity score while necessatiating the minimum workload. Thus was created task evasion.
+Though on paper, using a spreadsheet algorithm to categorise and distribute tasks is a perfect system, in practice there were complications. Since categorisation was based on a complexity scoring system, tasks could be purposely designed such that they acheive the maximum complexity score while necessatiating the minimum workload. Thus was created task evasion.
