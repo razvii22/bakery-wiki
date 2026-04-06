@@ -15,6 +15,8 @@ Head over to [TODO](wiki/TODO.md) for a list of things that need to be done.
 Welcome to the bakery, the *single* resource of information regarding the [baking boys](#nerds).    
 Whether you came here from the [streams](/wiki/people/razvii.md#streams) looking for context, [Berry](/wiki/people/razvii.md#Berry) managed to coerce you into visiting, or god forbid you managed to end up here on your own, please do feel free to peruse the wholly amateur catalogue at your disposal.
 
+{%- include index.md lat="100" long="100" -%}
+
 # The bakery
 The bakery is a tiny group of larping nerds that like to play games and sometimes get along.  
 The bakery itself serves as the central source of knowledge on everything related to aforementioned nerds, their whereabouts, schedules, releases, released code and anything that we decide is funny enough to go on here.
