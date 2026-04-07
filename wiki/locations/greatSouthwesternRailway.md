@@ -9,7 +9,7 @@ embed: card
 It goes south, then west (, and then north).
 
 # Location
-![The eastern station of Great Southwestern Railway](../../assets/images/locations/greathSouthwesternRailway/greatSouthwesternRailwayEndStation.jpg){: width="900" title="The location of the eastern station in the compound"}
+![The eastern station of Great Southwestern Railway](../../assets/images/locations/greatSouthwesternRailway/greatSouthwesternRailwayEndStation.jpg){: width="900" title="The location of the eastern station in the compound"}
 
 
 
@@ -21,7 +21,7 @@ The eastern station is part of the main compound.
 
 The western station is part of the mesa biome.
 
-![The western station of Great Southwestern Railway](../../assets/images/locations/greathSouthwesternRailway/greatSouthwesternRailwayEndStation.jpg){: width="900" title="Western station interior"}
+![The western station of Great Southwestern Railway](../../assets/images/locations/greatSouthwesternRailway/greatSouthwesternRailwayEndStation.jpg){: width="900" title="Western station interior"}
 
 The maintenance station in the middle lies in a snowy biome and houses The Implement.
 
