@@ -1,12 +1,12 @@
 ---
-title: Big Chicken
+title: Great Southwestern Railway
 image: /assets/images/locations/greatSouthwesternRailway/greatSouthwesternRailwayTrees.jpg
 excerpt: "Trains"
 embed: card
 ---
 {%- include incompletePage.md -%}
 
-It goes south, then west (, and then north).
+> It goes south, then west.. and then north.
 
 # Location
 ![The eastern station of Great Southwestern Railway](../../assets/images/locations/greatSouthwesternRailway/greatSouthwesternRailwayEndStation.jpg){: width="900" title="The location of the eastern station in the compound"}
