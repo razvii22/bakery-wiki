@@ -8,6 +8,8 @@ title: Welcome to the bakery
 
 >This site is hosting {{site.html_pages | size}} [pages](pages.md) and {{site.posts | size}} [blog posts](assets/blog/)
 
+Head over to [TODO](wiki/TODO.md) for a list of things that need to be done.
+
 {% comment %} the pages index above is temporary, but a page with an index list of every page should be put somewhere, to be discussed. {% endcomment %}
 
 Welcome to the bakery, the *single* resource of information regarding the [baking boys](#nerds).    

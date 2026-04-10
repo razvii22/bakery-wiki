@@ -1,0 +1,27 @@
+---
+title: Taskmaster
+image: /assets/images/locations/taskMaster/taskMasterExterior1.jpeg
+excerpt: "TAAAAAAAAAHHSK-masta."
+embed: card
+---
+{%- include incompletePage.md -%}
+
+> "In this world, nothing can be certain but death and tasks."
+{: blame="Benjamin Tasklin"}
+
+![Taskmaster](../../assets/images/locations/taskMaster/taskMasterExterior1.jpeg)
+
+Taskmaster is a mighty stone monument sculpted in the likeness of a turtle and often thought to be divine. Its purpose is to guide the workforce, delegating labour between [Rav](../people/razvii.md), [Brent](../people/brent.md), and [Jeremy](../people/jeremy.md) at the begining of each stream. As streams ended, tasks would need to be reported either complete or incomplete, at which point Taskmaster would deem labourers either disappointing or not disappointing. Scores awarded based on a labourer's performance were used to track the quality of their contributions to the server.
+
+As of right now, Taskmaster is not in use. Discussions are underway to figure out how Taskmaster can be re-purposed.
+
+# Location
+
+![The location of Taskmaster.](../../assets/images/locations/taskMaster/taskMasterLocation.jpeg){: width="900" title="The location of Task Master's plinth. Open in new tab to zoom in!"}
+
+# Task Evasion
+
+>"The difference between task avoidance and task evasion is the thickness of a prison wall."
+{: blame="Denis Taskley"}
+
+Though on paper, using a spreadsheet algorithm to categorise and distribute tasks is a perfect system, in practice there were complications. Since categorisation was based on a complexity scoring system, tasks could be purposely designed such that they acheive the maximum complexity score while necessatiating the minimum workload. Thus was created task evasion.
