@@ -99,5 +99,5 @@ inc_before_toc :
 inc_after_toc : 
 inc_before_content: 
 inc_after_content: 
-inc_before_head : 
+inc_before_head : map/header.html
 inc_after_head : radioPlayerScript.html
