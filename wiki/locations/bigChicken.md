@@ -3,13 +3,16 @@ title: Big Chicken
 image: /assets/images/locations/bigChicken/bigChickenExterior1.png
 excerpt: "Chicken Tube™ is a registered trademark of Squallarms Plant."
 embed: card
+x: 65
+y: 340
 ---
 {%- include incompletePage.md -%}
 
 Big Chicken is an ethical producer of fast(ish) food.
 
 # Location
-![The location of Big Chicken!](../../assets/images/locations/bigChicken/bigChickenLocation.jpeg){: width="900" title="The location of the smeltery on the map. Open in new tab to zoom in!"}
+
+{% include map/map.html%}
 
 # Menu
 

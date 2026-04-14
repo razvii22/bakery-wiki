@@ -3,6 +3,8 @@ title: Taskmaster
 image: /assets/images/locations/taskMaster/taskMasterExterior1.jpeg
 excerpt: "TAAAAAAAAAHHSK-masta."
 embed: card
+x: 188
+y: 425
 ---
 {%- include incompletePage.md -%}
 
@@ -17,7 +19,7 @@ As of right now, Taskmaster is not in use. Discussions are underway to figure ou
 
 # Location
 
-![The location of Taskmaster.](../../assets/images/locations/taskMaster/taskMasterLocation.jpeg){: width="900" title="The location of Task Master's plinth. Open in new tab to zoom in!"}
+{% include map/map.html%}
 
 # Task Evasion
 
