@@ -1,6 +1,8 @@
 ---
 title: Panopticon
 excerpt: "The concept is to allow all prisoners of an institution to be observed by a single prison officer, without the inmates knowing whether or not they are being watched."
+x: 190
+y: 230
 ---
 {%- include incompletePage.md -%}
 
@@ -11,6 +13,10 @@ excerpt: "The concept is to allow all prisoners of an institution to be observed
 The Panopticon is an all-seeing omnipresent eyesore that hangs in the sky like a colossal blot of ink seeping through clouds as though they were fine stock paper.
 Constructed by Raz, the Panopticon was initially designed to act as a command station for his turtles and automotons; its potential, however, was never realised - owing to an
 insightful and fortuitous bet placed by Jeremy.
+
+# Location
+
+{% include map/map.html%}
 
 # Gamba
 

@@ -3,6 +3,8 @@ title: Smeltery
 image: /assets/images/locations/smeltery/smelteryExterior1.png
 excerpt: "It's big, it's heavy, it's the only thing that consistently works."
 embed: card
+x: 211
+y: 118
 ---
 {%- include incompletePage.md -%}
 
@@ -16,7 +18,7 @@ Built by [Razvii](../people/razvii.md) to facilitate the mass-production of bake
 
 # Location
 
-![The location of the smetery on the Compound](../../assets/images/locations/smeltery/smelteryLocation.jpeg){: width="900" title="The location of the smeltery on the map. Open in new tab to zoom in!"}
+{% include map/map.html%}
 
 # Operation
 

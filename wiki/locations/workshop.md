@@ -3,6 +3,8 @@ title: Workshop
 image: /assets/images/locations/workshop/workshopExterior1.png
 excerpt: "Lots of tools, lots of waiting."
 embed: card
+x: 315
+y: 170
 ---
 {%- include incompletePage.md -%}
 
@@ -10,7 +12,7 @@ The workshop is one of the most critical structures in the compound.
 
 # Location
 
-![The location of Taskmaster.](../../assets/images/locations/workshop/workshopLocation.png){: width="900" title="The location of Task Master's plinth. Open in new tab to zoom in!"}
+{% include map/map.html%}
 
 # Old Workshop
 
