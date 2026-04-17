@@ -10,6 +10,7 @@ description: 'The "Official" repository for the baking boys wiki!'
 # (mapping) Left side navigation buttons, leave empty to remove them
 navButtons:
   Home: "/"
+  Locations: "/wiki/locations/"
 # HACK Github stuff, using jekyll-github-metadata seems wasteful when we're only using a few variables.
 # Change this to your repository URL
 # (string) repo url: user/repo
