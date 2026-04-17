@@ -87,9 +87,10 @@
             button.addEventListener("click", () => {
                 playPause(player, button);
             })
+            document.addEventListener("click", () =>{player.muted = false},{once:true})
             setInterval(() => {
                 loadPlayer(player, marquee, timecode, url1, url2, sources);
-            }, 200)
+            }, 1000)
             // loadPlayer(player, marquee, timecode, url1, url2, sources);
         });
 
@@ -123,13 +124,13 @@
                 console.log("Changing player source to Icecast.");
                 player.src = src;
             };
-            let startTime = new Date(properties.icestats.source.stream_start);
+            let startTime = new Date(properties.icestats.source[1].stream_start);
             console.log(startTime);
             let currentTime = new Date(),
             deltaTime = currentTime.getTime() - startTime.getTime(),
             timecodeVal = new Date(deltaTime);
             timecode.innerHTML = `${timecodeVal.getHours()}:${timecodeVal.getMinutes()}:${timecodeVal.getSeconds()}`;
-            marquee.innerText = properties.icestats.source.playlist.trackList[properties.icestats.source.playlist.trackList.length-1].title;
+            marquee.innerText = properties.icestats.source[1].title;
             console.log("5");
     }
 
@@ -154,6 +155,7 @@
             console.log("pause");
             button.innerHTML = "| &#x23f5 |";
         } else {
+            player.currentTime = (player.duration-5 | 0)
             player.play();
             console.log("play");
             button.innerHTML = "| &#x23f8  |";
