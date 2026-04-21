@@ -124,7 +124,7 @@
                 console.log("Changing player source to Icecast.");
                 player.src = src;
             };
-            let startTime = new Date(properties.icestats.source[1].stream_start);
+            let startTime = new Date(properties.icestats.source.stream_start);
             console.log(startTime);
             let currentTime = new Date(),
             deltaTime = currentTime.getTime() - startTime.getTime(),
