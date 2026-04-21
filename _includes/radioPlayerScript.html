@@ -130,8 +130,7 @@
             deltaTime = currentTime.getTime() - startTime.getTime(),
             timecodeVal = new Date(deltaTime);
             timecode.innerHTML = `${timecodeVal.getHours()}:${timecodeVal.getMinutes()}:${timecodeVal.getSeconds()}`;
-            marquee.innerText = properties.icestats.source[1].title;
-            console.log("5");
+            marquee.innerText = properties.icestats.source.title;
     }
 
     function radioCo (player, marquee, timecode, src, properties) {
