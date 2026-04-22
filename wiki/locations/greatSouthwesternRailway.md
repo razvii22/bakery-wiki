@@ -20,7 +20,7 @@ Great Southwestern Railway has 2 general stations (1 at each end), and a mainten
 
 The eastern station is part of the main compound.
 
-The western station is part of the mesa biome.
+The western [station](https://fudrehcs-document-archive.neocities.org/radioPage/){:.dark} is part of the mesa biome.
 
 ![The western station of Great Southwestern Railway](../../assets/images/locations/greatSouthwesternRailway/greatSouthwesternRailwayEndStation.jpg){: width="900" title="Western station interior"}
 
