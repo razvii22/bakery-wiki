@@ -6,7 +6,7 @@ title: Chess
 {%- include incompletePage.md -%}
 The baking boys have been known to dabble in a wee bit of chess.  
 Specifically, on some [streams](../people/razvii.md#streams), [Jeremy](../people/jeremy.md) and [razvii](../people/razvii.md) will occasionally play chess against one another, this often upsets and demoralizes Jeremy.  
-As such, to even the odds on the battlefield, the idea of playing [variations](#variants) has been introduced, where the rules of chess are turned upside down, inside out, and ocasionally... [diagonal](#diagonal-chess)...
+As such, to even the odds on the battlefield, the idea of playing [variations](#variants) has been introduced, where the rules of chess are [turned](https://fudrehcs-document-archive.neocities.org/seismograph/){.:dark} upside down, inside out, and ocasionally... [diagonal](#diagonal-chess)...
 
 # Variants
 The following is a non comprehensive list of chess rules variations, as well as links to their respective websites.  
