@@ -14,7 +14,7 @@ embed: card
 {%- include incompletePage.md -%}
 
 # Belgian, Programmer, Cool dude
-Among the many major breakthroughs in human civilisation, refrigeration stands as one of the most signifficant. A technology that changed the very nature of our diet, our nutrition, and our survival. It is thanks to refrigeration that seafood can be enjoyed inland, that a man can live in Florida, and that Brent can survive the summer. Where would we be without refrigeration.
+Among the many major breakthroughs in human civilisation, refrigeration stands as one of the most signifficant. A [technology](https://weather-station.neocities.org/terminal/){:.dark} that changed the very nature of our diet, our nutrition, and our survival. It is thanks to refrigeration that seafood can be enjoyed inland, that a man can live in Florida, and that Brent can survive the summer. Where would we be without refrigeration.
 It is impossible to contain the history of refrigeration in just one article.
 It is also impossible to find enough history about Brent to fill even one article.
 As far as people go, Brent is very similar to the country in which he reisdes. That middle one that bridges the gap between Romania and Britain.
