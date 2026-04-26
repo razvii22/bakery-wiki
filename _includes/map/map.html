@@ -65,11 +65,16 @@ var waypoints = [
 ]
 
 var marker1 = L.marker([50,50],{icon:bottleIcon});
+var marker2 = L.marker([150,100],{icon:bottleIcon});
 
 marker1.on("click", () => {window.open("https://www.dropbox.com/scl/fi/6686qsaer2ylksi4ccrle/Recovered-Scanned-Document.pdf?rlkey=zpks6vzmq04tzqzo31du02j7k&st=cqlkiav8&dl=1","_blank")})
+marker2.on("click", () => {window.open("https://www.dropbox.com/scl/fi/dwoq8oa5jefdo1gcmttvl/Recovered-Document.pdf?rlkey=p0axtfioufxgg8ywjr2y813l0&st=myitcpra&dl=1","_blank")})
 
 if (rand == 1) {
     marker1.addTo(map)
+}
+if (rand == 2) {
+    marker2.addTo(map)
 }
 
 var fullWaypoints = GeoJSON.concat(waypoints)
