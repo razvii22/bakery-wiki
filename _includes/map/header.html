@@ -1,9 +1,13 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <style>
     #map {
         height: 90%;
         width: 100%;
     }
-
     /* Leaflet crispness override */
     .leaflet-container .leaflet-overlay-pane svg,
     .leaflet-container .leaflet-marker-pane img,
@@ -29,9 +33,13 @@
         -ms-interpolation-mode: nearest-neighbor;
         /* IE8+           */
     }
+    .leaflet-container {
+        background-color: var(--Content);
+        width: 100% !important;
+        height: 100% !important;
+        z-index: 0;
+    }
+    #map-container {
+        height: 40rem;
+    }
 </style>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-<!-- Make sure you put this AFTER Leaflet's CSS -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>

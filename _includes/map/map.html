@@ -1,19 +1,8 @@
 <div id="map-container">
 <div id="map"></div>
 <script src="{{ '/assets/js/GeoJSON.js' | relative_url }}"></script>
-<style>
-.leaflet-container {
-    background-color: var(--Content);
-    width: 100% !important;
-    height: 100% !important;
-}
-#map-container {
-    height: 40rem;
-}
-</style>
 <script>
     var rand = Math.floor(Math.random()*10)
-    console.log(rand)
     var x = "{{page.x}}"
     var y = "{{page.y}}"
     var whiteIcon = L.icon({
@@ -94,7 +83,5 @@ L.geoJSON(fullWaypoints, {
     pointToLayer: pointToLayer,
     onEachFeature: onEachFeature
 }).addTo(map);
-
-// map.on('click', onMapClick);
 </script>
 </div>
