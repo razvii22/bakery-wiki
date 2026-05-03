@@ -7,7 +7,7 @@ embed: card
 layout: bakery-theme-person
 info:
   name: "Razvii"
-  nicknames: ["Raz","<abbr title='Kummostern'>Catman</abbr>","Twenty"]
+  nicknames: ["Raz","<abbr title='Kummostern'>Catman</abbr>"]
   pronouns: ["He/Him","They/Them"]
   image: "/assets/images/pfps/smugFuck.jpg"
 infoCard:
