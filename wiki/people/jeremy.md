@@ -4,8 +4,16 @@ accent-light: "#8d01d9"
 image: /assets/images/pfps/jeremy.png
 title: Jeremy
 embed: card
+layout: bakery-theme-person
+info:
+  name: "Jeremy"
+  nicknames: ["Scruby","Scrooby","Twat","Jemmy"]
+  pronouns: ["He/Him"]
+  image: "/assets/images/pfps/jeremy.png"
+infoCard:
+  - Occupation: "Sound engineer"
+  - Hobbies: "Cheese"
 ---
-{%- include bakery-wiki/components/charCard.html title="Jeremy" imageURL="../../assets/images/pfps/jeremy.png" table='Nicknames:,Scruby<br>Scrooby<br>Twat<br>Jemmy|Occupation:,Sound engineer|<a href="#Hobbies">Hobbies</a>:,<a href="#cheese">Cheese</a><br>' -%}
 > Jeremy is my favourite.<sup><abbr title="No-one is believing that, Jeremy.">Proper citation needed</abbr></sup>
 {: blame="Wix, Giraffe, Everyone in chat"}
 

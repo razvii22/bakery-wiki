@@ -4,10 +4,18 @@ accent-light: "#990000"
 image: /assets/images/pfps/smugFuck.jpg
 title: Razvii
 embed: card
+layout: bakery-theme-person
+info:
+  name: "Razvii"
+  nicknames: ["Raz","<abbr title='Kummostern'>Catman</abbr>","Twenty"]
+  pronouns: ["He/Him","They/Them"]
+  image: "/assets/images/pfps/smugFuck.jpg"
+infoCard:
+  - Hobbies: "Managing Twitch<br>Streams<br>Complaining"
 ---
 
-{%- include bakery-wiki/components/charCard.html title="Razvii" imageURL="../../assets/images/pfps/smugFuck.jpg" table='Nicknames:,Raz|Occupation:,<em>3D designer</em>|<a href="#Hobbies">Hobbies</a>:,Managing Twitch<br>Complaining' -%}
-
+<!-- Kitty -->
+<script src="https://louisabraham.github.io/nekojs/neko.js" data-autostart></script>
 
 {%- include incompletePage.md -%}
 

@@ -4,9 +4,16 @@ accent-light: "#E3DE61"
 image: /assets/images/pfps/snowman.jpg
 title: Brent
 embed: card
+layout: bakery-theme-person
+info:
+  name: "Brent"
+  nicknames: ["Brenty","Wenty","Twenty"]
+  pronouns: ["He/Him"]
+  image: "/assets/images/pfps/snowman.jpg"
+infoCard:
+    - Occupation: "Greasy lad.<br>(He makes cars)"
+    - Hobbies: "Piano<br>Coding<br>Idk... breathing?"
 ---
-
-{%- include bakery-wiki/components/charCard.html title="Brent" imageURL="../../assets/images/pfps/snowman.jpg" table='Nicknames:,Brenty<br>Wenty<br>Twenty|Occupation:,Greasy lad <em>(he makes cars)</em>|<a href="#Hobbies">Hobbies</a>:,Piano<br>Coding<br>Idk... breathing?' -%}
 
 > Writing an entire article about Brent in an insurmountable task.
 {: blame="Anybody who has attempted to write about Brent."}
